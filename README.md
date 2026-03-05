@@ -14,7 +14,7 @@
 
 ---
 
-### 🚀 Projects
+### Projects
 
 **[Resizo](https://www.resizo.net)** — Production image processing platform  
 `live at resizo.net` · `62 commits` · Next.js + Sharp + Supabase + Docker
@@ -30,7 +30,7 @@
 
 ---
 
-### 🛠️ Stack
+### Stack
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,python,tailwind,supabase,firebase,mongodb,docker,vercel)](https://skillicons.dev)
 
@@ -38,7 +38,7 @@ Building with **Claude API** + **FastAPI** + **FHIR Standards**
 
 ---
 
-### 🔗 Links
+### Links
 
 [![LinkedIn](https://img.shields.io/badge/saisucheetboppana-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saisucheetboppana/)
 [![YouTube](https://img.shields.io/badge/The+Football+Showdown-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@thefootballshowdown-18?si=HOHeJPUPPOLkOIO3)
